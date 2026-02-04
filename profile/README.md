@@ -1,40 +1,24 @@
+> Digital hana 路 금융서비스개발 우수 프로젝트 🏆
+
 # ✈️ 하나로 패스
 
-> 복잡한 한국 생활을 'EZ'하게,
-> 
-> 
-> 지도만 따라가면 할인부터 환급까지 알아서 해주는 서비스, 하나로 패스
-> 
-<img width="1162" height="652" alt="스크린샷 2026-02-02 오후 8 47 40" src="https://github.com/user-attachments/assets/6d9c5978-854e-479e-ab63-57d264e8b2e6" />
-
-# 🔧 기술 스택
-<p align="center">
-<img width="700" height="441" alt="스크린샷 2026-02-02 오후 8 48 53" src="https://github.com/user-attachments/assets/5e526495-8f60-4f55-a48c-0a47e45e0dee" />
-</p>
-
-# 📈 ERD
-<p align="center">
-  <img width="907" height="492" alt="스크린샷 2026-02-03 오전 12 57 20" src="https://github.com/user-attachments/assets/89176bdc-6632-49c0-9e99-66d2dd5f783a" />
-</p>
+### 복잡한 한국 생활을 'EZ'하게, 지도만 따라가면 할인부터 환급까지 알아서 해주는 서비스
+<img width="5760" height="3240" alt="Frame" src="https://github.com/user-attachments/assets/6ab25971-acc3-4e37-b433-88ab885c9f78" />
+<img width="5760" height="3240" alt="타겟" src="https://github.com/user-attachments/assets/97e07615-f682-42f8-8813-891e69ad5e75" />
+<img width="5760" height="3240" alt="chart" src="https://github.com/user-attachments/assets/330ace42-af2d-4dbd-881e-5e878c73356e" />
+<img width="5760" height="3240" alt="Frame" src="https://github.com/user-attachments/assets/2be39249-5d66-4f46-b70d-bbd98351ce0c" />
 
 # ✈️ 서비스 소개
-<p align="center">
-
-<img width="800" alt="스크린샷 2026-02-03 오전 12 59 35" src="https://github.com/user-attachments/assets/ad5d989b-b7cf-4989-a237-a2947045c7b9" />
-
-<img width="800" alt="스크린샷 2026-02-03 오전 1 00 43" src="https://github.com/user-attachments/assets/1adb2fd3-655a-4e5f-822a-7b93f176b140" />
-
-<img width="800" alt="스크린샷 2026-02-03 오전 1 01 15" src="https://github.com/user-attachments/assets/8a3ce1d3-c96a-4056-8e7d-3a6b72f3d8ce" />
-
-<img width="800" alt="스크린샷 2026-02-03 오전 1 01 42" src="https://github.com/user-attachments/assets/777f31c0-d8a0-4fe7-827b-843c5b5d92db" />
-
+<img width="5760" height="3240" alt="기능1" src="https://github.com/user-attachments/assets/3d786646-2f5d-4f8c-a720-23b8d1b58250" />
+<img width="5760" height="3240" alt="스크린샷 2026-02-03 오전 1 00 43" src="https://github.com/user-attachments/assets/1adb2fd3-655a-4e5f-822a-7b93f176b140" />
+<img width="5760" height="3240" alt="기능3" src="https://github.com/user-attachments/assets/6169597a-61b6-425e-9705-1109d4505b96" />
+<img width="5760" height="3240" alt="스크린샷 2026-02-03 오전 1 01 42" src="https://github.com/user-attachments/assets/777f31c0-d8a0-4fe7-827b-843c5b5d92db" />
+<img width="5760" height="3240" alt="기능5" src="https://github.com/user-attachments/assets/e0b0fd38-033d-4161-80fc-086456c03504" />
 </p>
 
 
 # 👩🏻‍💻 팀원 소개
-<p align="center">
-<img width="700" height="633" alt="스크린샷 2026-02-02 오후 8 48 16" src="https://github.com/user-attachments/assets/62e6eea1-79e3-4b3d-82d8-29fd89130190" />
-</p>
+<img width="5760" height="3240" alt="단체사진" src="https://github.com/user-attachments/assets/3112aa44-8ddd-42a1-a18a-1e1280fa72bb" />
 
 | 유저 | 유저 | 메인 / 쿠폰 | 맵 | 맵 | 병원 | 병원 |
 | --- | --- | --- | --- | --- | --- | --- |
