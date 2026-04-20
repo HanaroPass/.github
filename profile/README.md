@@ -9,7 +9,7 @@
 <img width="5760" alt="Frame" src="https://github.com/user-attachments/assets/2be39249-5d66-4f46-b70d-bbd98351ce0c" />
 
 # 👩🏻‍💻 팀원 소개
-<img width="5760" height="3240" alt="Frame" src="https://github.com/user-attachments/assets/575bbb1a-a660-4be8-a859-e3a575120402" />
+<img width="5760" alt="Frame" src="https://github.com/user-attachments/assets/575bbb1a-a660-4be8-a859-e3a575120402" />
 
 | 유저 | 유저 | 메인 / 쿠폰 | 맵 | 맵 | 병원 | 병원 |
 | --- | --- | --- | --- | --- | --- | --- |
